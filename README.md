@@ -4,4 +4,5 @@ Hash and Linear Probing: You are to construct a closed hash table of total capac
 Using linear rehash (or linear probe: one step increment) <br> <br>
 Hash table 2 <br>
 Repeat with Quadratic Probing <br> <br>
-Files include a pdf with detailed requirements, main c code files, and the text file with data <br>
+Files include a pdf with detailed requirements, main c code files, the text file with data and a few images to dsiplay output <br>
+Code inlcudes interactive user input and menu to run different parts of the program as desired <br>
