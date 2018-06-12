@@ -171,7 +171,7 @@ void searchTable(int numLines,string hashData[max_entries], string states[max_nu
             }
             else if(states[i]==hashData[j])
               {
-                  cout<<i<<" The number of searches required to find "<<states[i]<<" is: "<<count1<<endl;
+                  cout<<"The number of searches required to find "<<states[i]<<" is: "<<count1<<endl;
                   totalSearch+=count1;
               }
         }
